@@ -1,0 +1,23 @@
+﻿{"fecha": "2025-08-04T11:48:17.00-06:00", "inicio": "2025-08-04T09:00:00.1442504-06:00", "final":"2025-08-04T09:25:00.1442504-06:00", "tipo":"Pomodoro", "task":"búsqueda de cursos" }
+{"fecha": "2025-08-04T11:48:17.00-06:00", "inicio": "2025-08-04T09:30:00.1442504-06:00", "final":"2025-08-04T09:55:00.1442504-06:00", "tipo":"Pomodoro", "task":"actualización de cursos" }
+{"fecha": "2025-08-04T11:48:17.00-06:00", "inicio": "2025-08-04T11:23:17.1442504-06:00", "final":"2025-08-04T11:48:17.1442504-06:00", "tipo":"Pomodoro", "task":"actualización de temarios de cursos" }
+{"fecha": "2025-08-04T11:59:51.00-06:00", "inicio": "2025-08-04T11:59:51.1442504-06:00", "final":"2025-08-04T11:59:51.7564090-06:00", "tipo":"Descanso", "task":"638899055917564245" }
+{"fecha": "2025-08-04T13:00:38.00-06:00", "inicio": "2025-08-04T12:35:17.1442504-06:00", "final":"2025-08-04T13:00:38.6713502-06:00", "tipo":"Pomodoro", "task":"actualización de temarios de cursos" }
+{"fecha": "2025-08-04T13:12:23.00-06:00", "inicio": "2025-08-04T13:12:23.1442504-06:00", "final":"2025-08-04T13:12:23.6374855-06:00", "tipo":"Descanso", "task":"638899099436374877" }
+{"fecha": "2025-08-04T14:17:18.00-06:00", "inicio": "2025-08-04T14:17:18.1442504-06:00", "final":"2025-08-04T14:17:18.4126463-06:00", "tipo":"Descanso", "task":"638899138384126642" }
+{"fecha": "2025-08-04T14:24:52.00-06:00", "inicio": "2025-08-04T14:24:52.1442504-06:00", "final":"2025-08-04T14:24:52.0812855-06:00", "tipo":"Descanso", "task":"638899142920932169" }
+{"fecha": "2025-08-04T14:30:48.00-06:00", "inicio": "2025-08-04 14:30:48.1071802-06:00", "final":"2025-08-04T14:30:48.4185456-06:00", "tipo":"Descanso", "task":"638899146484305791" }
+{"fecha": "2025-08-04T15:00:43.00-06:00", "inicio": "2025-08-04T14:35:17.1442504-06:00", "final":"2025-08-04T15:00:43.8819599-06:00", "tipo":"Pomodoro", "task":"actualización de temarios de cursos" }
+{"fecha": "2025-08-04T15:08:40.00-06:00", "inicio": "2025-08-04 15:08:40.1071802-06:00", "final":"2025-08-04T15:08:40.5456348-06:00", "tipo":"Descanso", "task":"638899169205456401" },{"fecha": "2025-08-04 16:04:49", "inicio": "0001-01-01T00:00:00.0000000-06:00", "final":"2025-08-04T16:04:49.1412150-06:00", "tipo":"Descanso", "task":"Inserción de lista de temas de un curso" }
+{"fecha": "2025-08-04T18:30:04.00-06:00", "inicio": "2025-08-04T18:05:04.1442504-06:00", "final":"2025-08-04T18:30:04.4515928-06:00", "tipo":"Pomodoro", "task":"Inserción de lista de temas de un curso" }
+{"fecha": "2025-08-04T18:36:58.00-06:00", "inicio": "2025-08-04 18:36:58.1071802-06:00", "final":"2025-08-04T18:36:58.9840750-06:00", "tipo":"Descanso", "task":"Inserción de lista de temas de un curso" }
+{"fecha": "2025-08-04T19:32:28.00-06:00", "inicio": "2025-08-04T19:04:55.8932134-06:00", "final":"2025-08-04T19:32:28.0891962-06:00", "tipo":"Pomodoro", "task":"Obtener temario y pintarlo en el árbol" }
+{"fecha": "2025-08-05T08:40:21.00-06:00", "inicio": "2025-08-05T08:15:11.0155100-06:00", "final":"2025-08-05T08:40:21.3394725-06:00", "tipo":"Pomodoro", "task":"Correcciones a carga de temario/árbol" }
+{"fecha": "2025-08-05T08:46:31.00-06:00", "inicio": "2025-08-05T08:15:11.0155100-06:00", "final":"2025-08-05T08:46:31.8272502-06:00", "tipo":"Descanso", "task":"Correcciones a carga de temario/árbol" }
+{"fecha": "2025-08-05T09:24:27.00-06:00", "inicio": "2025-08-05T08:58:22.5471905-06:00", "final":"2025-08-05T09:24:27.3066471-06:00", "tipo":"Pomodoro", "task":"Correcciones a carga de temario/árbol // Junta con Carlos Oropeza" }
+{"fecha": "2025-08-05T10:05:32.00-06:00", "inicio": "2025-08-05T09:29:20.9931011-06:00", "final":"2025-08-05T10:05:32.9181858-06:00", "tipo":"Pomodoro", "task":"Junta con Carlos Oropeza / Generar Clave de Curso en curso nuevo / Carga de excel de Aníbal" }
+{"fecha": "2025-08-05T10:50:22.00-06:00", "inicio": "2025-08-05T10:25:12.0014292-06:00", "final":"2025-08-05T10:50:22.2109991-06:00", "tipo":"Pomodoro", "task":"Carga de excel de Aníbal" }
+{"fecha": "2025-08-05T10:57:57.00-06:00", "inicio": "2025-08-05 10:57:57.1071802-06:00", "final":"2025-08-05T10:57:57.9286508-06:00", "tipo":"Descanso", "task":"Generar Clave de Curso en curso nuevo" }
+{"fecha": "2025-08-05T11:52:28.00-06:00", "inicio": "2025-08-05T11:27:18.8090510-06:00", "final":"2025-08-05T11:52:28.8461678-06:00", "tipo":"Pomodoro", "task":"Junta con equipo" }
+{"fecha": "2025-08-05T13:43:11.00-06:00", "inicio": "2025-08-05T13:18:01.1071802-06:00", "final":"2025-08-05T13:43:11.2171993-06:00", "tipo":"Pomodoro", "task":"Correcciones de visualización de modales" }
+{"fecha": "2025-08-05T13:49:27.00-06:00", "inicio": "2025-08-05 13:49:27.1071802-06:00", "final":"2025-08-05T13:49:27.3948992-06:00", "tipo":"Descanso", "task":"Correcciones de visualización de modales" }
