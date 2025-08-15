@@ -60,10 +60,24 @@ app.delete('/pomodoros/:id', (req, res) => {
     if (this.changes === 0) {
       return res.status(404).json({ message: 'Pomodoro not found' });
     }
-    res.status(200).json({ message: 'Pomodoro deleted successfully' });
+  });
+});
+
+app.put('/pomodoros/:id', (req, res) => {
+  const { id } = req.params;
+  const { fecha, inicio, final, tipo, task } = req.body;
+  console.log(`${(new Date()).toLocaleString()} updating pomodoro id ${id}`);
+  db.run(`UPDATE pomodoros SET fecha = ?, inicio = ?, final = ?, tipo = ?, task = ? WHERE id = ?`, [fecha, inicio, final, tipo, task, id], function(err) {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+    if (this.changes === 0) {
+      return res.status(404).json({ message: 'Pomodoro not found' });
+    }
+    res.status(200).json({ message: 'Pomodoro updated successfully' });
   });
 });
 
 app.listen(port, () => {
   console.log(`Server listening at http://localhost:${port}`);
-});
+});""
